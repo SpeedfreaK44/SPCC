@@ -1,0 +1,2 @@
+while A > B  &  A < = 2 * B - 5 do
+A := A + B
